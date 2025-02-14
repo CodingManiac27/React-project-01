@@ -1,4 +1,5 @@
 {
+  "homepage": "https://codingmaniac27.github.io/React-project-01/",
   "name": "bgchanger",
   "private": true,
   "version": "0.0.0",
@@ -26,6 +27,5 @@
     "eslint-plugin-react-refresh": "^0.4.18",
     "globals": "^15.14.0",
     "vite": "^6.1.0"
-  },
-  "homepage": "https://codingmaniac27.github.io/React-project-01/"
+  }
 }
